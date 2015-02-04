@@ -1,6 +1,9 @@
 {
     "name": "ccm/locatorBundle",
     "description": "Test bundle",
+        "autoload": {
+                    "psr-0": { "": "src/", "SymfonyStandard": "app/" }
+                        },
     "authors": [
         {
             "name": "olivier pot",
