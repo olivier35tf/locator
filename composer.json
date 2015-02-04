@@ -1,0 +1,11 @@
+{
+    "name": "ccm/locatorBundle",
+    "description": "Test bundle",
+    "authors": [
+        {
+            "name": "olivier pot",
+            "email": "pot@dd.fr"
+        }
+    ],
+    "require": {}
+}
