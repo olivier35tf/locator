@@ -1,6 +1,6 @@
 {
     "name": "ccm/locatorBundle",
-    "type" : "symfony-bundle",
+    "type" : "library",
     "description": "Test bundle",
         "autoload": {
                     "psr-4": { "CCM\\LocatorBundle\\" : "" }
